@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move element &apos;OpenWeatherMapAPI.java&apos; to &apos;WheatherForecastApp/src/com.kodnest.assignment.weatherforecast&apos;&#x0D;&#x0A;- Original project: &apos;WheatherForecastApp&apos;&#x0D;&#x0A;- Destination element: &apos;WheatherForecastApp/src/com.kodnest.assignment.weatherforecast&apos;&#x0D;&#x0A;- Original element: &apos;OpenWeatherMapAPI.java&apos;&#x0D;&#x0A;- Update references to refactored element" description="Move compilation unit" destination="/src&lt;com.kodnest.assignment.weatherforecast" element1="/src&lt;{OpenWeatherMapAPI.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1730181053884" units="1" version="1.0"/>
+</session>

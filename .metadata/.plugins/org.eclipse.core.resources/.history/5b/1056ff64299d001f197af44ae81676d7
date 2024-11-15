@@ -1,0 +1,14 @@
+package com.kodnest.dsa.strings.programs;
+
+import java.util.Scanner;
+
+public class ExtractDigits {
+
+	public static void main(String[] args) {
+		Scanner scanner = new Scanner(System.in);
+		System.out.println("Enter string with digits: ");
+		String str = scanner.nextLine();
+		
+		
+	}
+}
